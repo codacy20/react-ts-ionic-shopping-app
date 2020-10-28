@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.codacy20.react.ts.shooping.app",
+  "appId": "io.ionic.starter",
   "appName": "react-ts-ionic-shopping-app",
   "bundledWebRuntime": false,
   "npmClient": "npm",
