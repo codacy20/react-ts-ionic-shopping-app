@@ -1,0 +1,7 @@
+{
+  "name": "react-ts-ionic-shopping-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
